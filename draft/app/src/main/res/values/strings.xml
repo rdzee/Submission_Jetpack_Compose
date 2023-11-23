@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_game">Search a Game</string>
+</resources>
